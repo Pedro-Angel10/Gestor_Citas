@@ -1,0 +1,5 @@
+com\mycompany\gestor_citas\JakartaRestConfiguration.class
+Controlador\Controlador.class
+com\mycompany\gestor_citas\resources\JakartaEE91Resource.class
+config\Conexion.class
+Controlador\Validar.class
